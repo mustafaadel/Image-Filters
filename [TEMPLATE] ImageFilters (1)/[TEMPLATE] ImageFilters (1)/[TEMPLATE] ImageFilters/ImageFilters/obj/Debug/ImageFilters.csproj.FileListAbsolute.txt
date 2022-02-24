@@ -1,0 +1,67 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.ZGraphForm.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.Cache
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZedGraph.dll
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.dll
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.pdb
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+C:\Users\Mosta Mommedtto\Downloads\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZedGraph.dll
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.dll
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.pdb
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZedGraph.dll
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.dll
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.pdb
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+C:\Users\user\Desktop\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZedGraph.dll
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.dll
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.pdb
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+C:\Users\user\Desktop\Uni Shit\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters (1)\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
