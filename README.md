@@ -4,7 +4,6 @@
 
 * Alpha-Trim Filter
 * Adaptive Median Filter
-* Fast Median Filter
 
 ### Toolkits :
 
